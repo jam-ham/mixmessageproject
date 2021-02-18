@@ -1,13 +1,13 @@
 # mixmessageproject
 
-#Hi all 
+# Hi all 
 
-##In this repository you can see  a page with simplistic HTML and CSS.  The aim for this project was to focus on the JavaScript, and then practice sharing the files on GitHub. 
+## In this repository you can see  a page with simplistic HTML and CSS.  The aim for this project was to focus on the JavaScript, and then practice sharing the files on GitHub. 
 
-##Task 
+## Task 
 The plan was to create a page which displays a random message every time the user presses the button.  
 
-###Action Plan 
+### Action Plan 
 1.	Create a 3 text files:  mixmessages.html, mixmessagesdesign.css, randomMessageMaker.js
 
 2.	Open the mixmessages.html file. Write  ‘RAMDOM MESSAGE GENERATOR’  between header tags inside the body.  Include a button which will later call a function. Write can an empty p tag and then  assign an  ID called "displayMessage". 

@@ -1,0 +1,18 @@
+body {background-color: blueviolet; 
+    font-family: Tahoma, Geneva, sans-serif; color: white;
+    }
+
+h1{text-align: center; text-transform: uppercase;
+  margin-top: 60px; margin-bottom: 40px ;}
+
+ p {margin-left: 60px;}
+
+ .firstSentence {margin-bottom: 40px; margin-top: 60px; font-size: 1.4em;}
+
+ .secoundSentence {margin-top: 60px; font-size: 1.4em;}
+
+ #displayMessage {font-size: 1.4em; text-align: center; text-transform: uppercase; margin-top: 70px;}
+
+ button {text-align: center; margin-left: 640px; margin-top: 40px;border: none;
+  color: white; padding: 15px 32px; text-align: center;text-decoration: none;
+  display: inline-block; font-size: 16px; cursor: pointer; background-color: red; }
